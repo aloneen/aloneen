@@ -1,16 +1,36 @@
-## Hi there 👋
+# Привет, я Dias Seisenbek! 👋
 
-<!--
-**aloneen/aloneen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 О себе
+
+- 🎓 19 лет, студент, начинающий разработчик
+- 🔭 Работаю с **Java, Spring Boot, Python, PHP**
+- 📚 Изучаю новые технологии и создаю проекты
+- 💼 Открыт к предложениям (работа, стажировка)
+- 🌍 [Моё портфолио](https://portfolio-vn1x.onrender.com/)
+
+## 🔧 Технологии
+
+
+
+
+
+
+
+## 📌 Закреплённые проекты
+
+- 🛒 [SaudaApp](https://github.com/aloneen/SaudaApp) – приложение для создания объявлений, аналог OLX.
+- 📖 [crud-python-flask-diary](https://github.com/aloneen/crud-python-flask-diary) – дневник на Flask.
+- 💬 [forum.kz](https://github.com/aloneen/forum.kz) – форум на PHP.
+- 💰 [bank-transaction](https://github.com/aloneen/bank-transaction) – симуляция банковских транзакций.
+
+## 📫 Контакты
+
+📩 Email: **[diasseisenbek80@gmail.com](mailto\:diasseisenbek80@gmail.com)**\
+💻 GitHub: [github.com/aloneen](https://github.com/aloneen)
+
+---
+
+💡 *""*
+
