@@ -9,15 +9,6 @@ I am a **Java Developer**. I'm developing in the field of web technologies, doin
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aloneen&show_icons=true&theme=dark" width="45%">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloneen&layout=compact&theme=dark" width="45%">
-</p>
-
----
-
 ### 🛠 Languages and Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -31,7 +22,6 @@ I am a **Java Developer**. I'm developing in the field of web technologies, doin
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
-![aloneen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aloneen&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
