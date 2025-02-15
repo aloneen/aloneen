@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Dias Seisenbek</h1>
 
 <p align="center">
-  <img src="Dias Seisenbek.png" alt="aloneen banner">
+  <img src="banner.png" alt="aloneen banner">
 </p>
 
 ## About me  
