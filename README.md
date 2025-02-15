@@ -31,14 +31,13 @@ I am a **Java Developer**. I'm developing in the field of web technologies, doin
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
+![aloneen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aloneen&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
 ---
 
 ### 📬 Follow Me  
 <p align="center">
-  <a href="https://t.me/yourtelegram">
+  <a href="https://t.me/somehowbutwill">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://wa.me/yourwhatsapp">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
