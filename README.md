@@ -2,10 +2,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&weight=400&size=52&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Dias+Seisenbek." alt="name"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&pause=2000&color=888888&center=true&vCenter=true&width=500&lines=Java+Developer+%E2%80%94+Beeline+QazCode+Intern;Building+things+that+hopefully+work+in+prod." alt="title"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=Java+Developer+%E2%80%94+Beeline+QazCode+Intern;Building+things+that+hopefully+work+in+prod." alt="title"/>
 
-<br/>
-<img src="https://komarev.com/ghpvc/?username=aloneen&label=&color=111111&style=flat-square"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=aloneen&label=&color=555555&style=flat-square"/>
 
 </div>
 
@@ -13,14 +14,14 @@
 
 <br/>
 
-<table width="100%">
+<table>
 <tr>
-<td width="35%" align="center" valign="bottom">
+<td width="300px" align="center" valign="top">
   <img src="vagabond1.jpg" width="260px"/>
 </td>
-<td width="65%" valign="middle" align="left">
+<td valign="top" align="left">
 
-<h2>About Me</h2>
+## About Me
 
 I'm a **Java Backend Developer** currently interning at **Beeline QazCode** —
 writing REST APIs by day, and wondering why they break by night.
@@ -28,8 +29,7 @@ writing REST APIs by day, and wondering why they break by night.
 I work with **Spring Boot**, wrestle with **Hibernate**, and occasionally pretend
 to understand **Docker** when it works on the first try.
 
-Also learning front-end, because suffering on one side of the stack
-apparently wasn't enough.
+Also learning front-end, because one layer of chaos wasn't enough.
 
 Open to collaborating. Open to learning. Open to coffee.
 
@@ -56,9 +56,25 @@ Open to collaborating. Open to learning. Open to coffee.
 
 <div align="center">
 
-| Backend | Database | Tools |
-|:---:|:---:|:---:|
-| Java · Spring Boot · Spring Security · Hibernate | PostgreSQL · MySQL · MongoDB · Redis | Docker · Git · Maven · Linux |
+<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-000000?style=flat-square&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-000000?style=flat-square&logo=hibernate&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-000000?style=flat-square&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 
 </div>
 
@@ -68,29 +84,31 @@ Open to collaborating. Open to learning. Open to coffee.
 
 <br/>
 
-<table width="100%">
+<table>
 <tr>
-<td width="65%" valign="middle" align="left">
+<td valign="top" align="left">
 
-<h2>Connect</h2>
+## Connect
 
-&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-aloneen-white?style=flat-square&logo=github&logoColor=black&labelColor=white)](https://github.com/aloneen)
+<br/>
 
-&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-dias--seisenbek-white?style=flat-square&logo=linkedin&logoColor=0077B5&labelColor=white)](https://www.linkedin.com/in/dias-seisenbek/)
+[![GitHub](https://img.shields.io/badge/GitHub-aloneen-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/aloneen)
 
-&nbsp;&nbsp;[![Telegram](https://img.shields.io/badge/Telegram-somehowbutwill-white?style=flat-square&logo=telegram&logoColor=229ED9&labelColor=white)](https://t.me/somehowbutwill)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dias--seisenbek-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dias-seisenbek/)
 
-&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-diasseisenbek80-white?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=white)](mailto:diasseisenbek80@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-somehowbutwill-000000?style=flat-square&logo=telegram&logoColor=white)](https://t.me/somehowbutwill)
+
+[![Gmail](https://img.shields.io/badge/Gmail-diasseisenbek80-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:diasseisenbek80@gmail.com)
 
 <br/>
 
 > *There is no path. The path is made by walking.*
 >
-> *— Vagabond*
+> — Vagabond
 
 </td>
-<td width="35%" align="center" valign="bottom">
-  <img src="vagabond2.jpg" width="240px"/>
+<td width="300px" align="center" valign="top">
+  <img src="vagabond2.jpg" width="260px"/>
 </td>
 </tr>
 </table>
