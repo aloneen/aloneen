@@ -84,34 +84,26 @@ Open to collaborating. Open to learning. Open to coffee.
 
 <br/>
 
-<table>
-<tr>
-<td valign="top" align="left">
+<h2 align="center">Connect</h2>
 
-## Connect
+<div align="center">
 
-<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aloneen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dias-seisenbek/)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/somehowbutwill)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diasseisenbek80@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-aloneen-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/aloneen)
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dias--seisenbek-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dias-seisenbek/)
+<img src="vagabond2.jpg" width="280px"/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-somehowbutwill-000000?style=flat-square&logo=telegram&logoColor=white)](https://t.me/somehowbutwill)
-
-[![Gmail](https://img.shields.io/badge/Gmail-diasseisenbek80-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:diasseisenbek80@gmail.com)
-
-<br/>
+<br/><br/>
 
 > *There is no path. The path is made by walking.*
 >
 > — Vagabond
 
-</td>
-<td width="300px" align="center" valign="top">
-  <img src="vagabond2.jpg" width="260px"/>
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
