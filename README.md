@@ -1,137 +1,114 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=160&text=Dias%20Seisenbek.&fontSize=62&fontColor=ffffff&fontAlign=50&fontAlignY=55&desc=Java%20Developer&descAlign=50&descAlignY=78&descSize=20" width="100%"/>
-</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&weight=400&size=52&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Dias+Seisenbek." alt="name"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&pause=2000&color=888888&center=true&vCenter=true&width=500&lines=Java+Developer+%E2%80%94+Beeline+QazCode+Intern;Building+things+that+hopefully+work+in+prod." alt="title"/>
 
 <br/>
+<img src="https://komarev.com/ghpvc/?username=aloneen&label=&color=111111&style=flat-square"/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aloneen&label=views&color=ffffff&style=flat-square"/>
 </div>
 
 ---
 
-<h2 align="center">Know About Me</h2>
+<br/>
 
-<table align="center" width="90%">
+<table width="100%">
 <tr>
-<td width="38%" align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="220px"/>
+<td width="35%" align="center" valign="bottom">
+  <img src="vagabond1.jpg" width="260px"/>
 </td>
-<td width="62%" valign="top">
+<td width="65%" valign="middle" align="left">
 
-**Hey there! I'm Dias**
+<h2>About Me</h2>
 
-I'm a Java Backend Developer currently surviving my internship at **Beeline QazCode**, where I write REST APIs that hopefully work in production too — not just on my machine.
+I'm a **Java Backend Developer** currently interning at **Beeline QazCode** —
+writing REST APIs by day, and wondering why they break by night.
 
-By day, I wrestle with Spring Boot and Hibernate. By night, I wonder why the Docker container built fine locally but refuses to cooperate anywhere else.
+I work with **Spring Boot**, wrestle with **Hibernate**, and occasionally pretend
+to understand **Docker** when it works on the first try.
 
-I'm also learning front-end, because apparently one layer of chaos wasn't enough. Always open to collaborating on real projects and shipping actual things.
+Also learning front-end, because suffering on one side of the stack
+apparently wasn't enough.
+
+Open to collaborating. Open to learning. Open to coffee.
+
+<br/>
+
+```
+  Name    →  Dias Seisenbek
+  Role    →  Java Intern @ Beeline QazCode
+  Stack   →  Java · Spring · PostgreSQL · Docker
+  Status  →  Shipping code and asking questions
+```
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
+
+<br/>
 
 <h2 align="center">Stack</h2>
 
-<table align="center" width="90%">
-<tr>
-<td align="center" width="33%">
-
-**Backend**
-<br/>
-Java · Spring Boot
-<br/>
-Spring Security · Hibernate
-
-</td>
-<td align="center" width="33%">
-
-**Data**
-<br/>
-PostgreSQL · MySQL
-<br/>
-MongoDB · Redis
-
-</td>
-<td align="center" width="33%">
-
-**Tools**
-<br/>
-Docker · Git · Linux
-<br/>
-Maven · IntelliJ IDEA
-
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">Top Projects</h2>
-
-<table align="center" width="90%">
-<tr>
-<td width="75%" valign="top">
-
-[![aloneen](https://img.shields.io/badge/github-aloneen-white?style=flat-square&logo=github&logoColor=black)](https://github.com/aloneen/aloneen)&nbsp; This very README — because self-branding is also a skill.
-
-</td>
-<td width="25%" align="center" rowspan="3">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Fire.gif" width="80px"/>
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-> Add your best repos here — a CRUD API, a pet project, anything you shipped and didn't delete out of shame.
-
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">Connect</h2>
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aloneen)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dias-seisenbek/)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/somehowbutwill)
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diasseisenbek80@gmail.com)
+| Backend | Database | Tools |
+|:---:|:---:|:---:|
+| Java · Spring Boot · Spring Security · Hibernate | PostgreSQL · MySQL · MongoDB · Redis | Docker · Git · Maven · Linux |
 
 </div>
 
 <br/>
 
-<div align="center">
-<sub>
+---
 
-> *Code is never finished. It only becomes slightly less terrible over time.*
+<br/>
 
-> *Every commit is a small, desperate apology to my future self.*
+<table width="100%">
+<tr>
+<td width="65%" valign="middle" align="left">
 
-</sub>
-</div>
+<h2>Connect</h2>
+
+&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-aloneen-white?style=flat-square&logo=github&logoColor=black&labelColor=white)](https://github.com/aloneen)
+
+&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-dias--seisenbek-white?style=flat-square&logo=linkedin&logoColor=0077B5&labelColor=white)](https://www.linkedin.com/in/dias-seisenbek/)
+
+&nbsp;&nbsp;[![Telegram](https://img.shields.io/badge/Telegram-somehowbutwill-white?style=flat-square&logo=telegram&logoColor=229ED9&labelColor=white)](https://t.me/somehowbutwill)
+
+&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-diasseisenbek80-white?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=white)](mailto:diasseisenbek80@gmail.com)
+
+<br/>
+
+> *There is no path. The path is made by walking.*
+>
+> *— Vagabond*
+
+</td>
+<td width="35%" align="center" valign="bottom">
+  <img src="vagabond2.jpg" width="240px"/>
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
 <h2 align="center">Contribution</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aloneen&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=111111&area=true&hide_border=true" width="90%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aloneen&theme=github-compact&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=eeeeee&area=true&hide_border=true" width="92%" alt="Contribution Graph"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aloneen&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&dates=888888&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=aloneen&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&dates=888888&sideLabels=000000&sideNums=000000&currStreakNum=000000" alt="GitHub Streak"/>
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=60&section=footer&fontSize=12&fontColor=555555&text=aloneen%20%C2%A9%202025" width="100%"/>
-</div>
+<br/>
