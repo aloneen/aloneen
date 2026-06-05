@@ -1,136 +1,137 @@
 <div align="center">
-
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dias%20Seisenbek&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Developer%20%7C%20Backend%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
-
-<!-- Animated typing subtitle -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot+Developer;Backend+Engineer+%7C+API+Architect;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=160&text=Dias%20Seisenbek.&fontSize=62&fontColor=ffffff&fontAlign=50&fontAlignY=55&desc=Java%20Developer&descAlign=50&descAlignY=78&descSize=20" width="100%"/>
+</div>
 
 <br/>
 
-<!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=aloneen&label=Profile+Views&color=7c3aed&style=flat-square" alt="profile views"/>
-
-</div>
-
----
-
 <div align="center">
-  <img src="https://img.shields.io/badge/💼%20Currently%20at-Beeline%20QazCode-1DB954?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Position-Java%20Intern-a78bfa?style=for-the-badge&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=aloneen&label=views&color=ffffff&style=flat-square"/>
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<h2 align="center">Know About Me</h2>
 
-```java
-public class Dias extends Developer {
+<table align="center" width="90%">
+<tr>
+<td width="38%" align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="220px"/>
+</td>
+<td width="62%" valign="top">
 
-    String name       = "Dias Seisenbek";
-    String role       = "Java Backend Developer";
-    String location   = "Kazakhstan";
-    String company    = "Beeline QazCode";
-    String position   = "Java Intern";
-    String[] focus    = {"Spring Boot", "REST APIs", "Microservices"};
-    boolean openToWork = true;
+**Hey there! I'm Dias**
 
-    String greet() {
-        return "Happy to collaborate on exciting projects!";
-    }
-}
-```
+I'm a Java Backend Developer currently surviving my internship at **Beeline QazCode**, where I write REST APIs that hopefully work in production too — not just on my machine.
+
+By day, I wrestle with Spring Boot and Hibernate. By night, I wonder why the Docker container built fine locally but refuses to cooperate anywhere else.
+
+I'm also learning front-end, because apparently one layer of chaos wasn't enough. Always open to collaborating on real projects and shipping actual things.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">Stack</h2>
+
+<table align="center" width="90%">
+<tr>
+<td align="center" width="33%">
 
 **Backend**
+<br/>
+Java · Spring Boot
+<br/>
+Spring Security · Hibernate
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+</td>
+<td align="center" width="33%">
 
-**Frontend**
+**Data**
+<br/>
+PostgreSQL · MySQL
+<br/>
+MongoDB · Redis
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</td>
+<td align="center" width="33%">
 
-**Databases**
+**Tools**
+<br/>
+Docker · Git · Linux
+<br/>
+Maven · IntelliJ IDEA
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aloneen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&cache_seconds=86400"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloneen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&cache_seconds=86400"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=aloneen&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&dates=c9d1d9&cache_seconds=86400" alt="GitHub Streak"/>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">Top Projects</h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aloneen/aloneen/output/github-snake-dark.svg" alt="Snake animation"/>
-</div>
+<table align="center" width="90%">
+<tr>
+<td width="75%" valign="top">
+
+[![aloneen](https://img.shields.io/badge/github-aloneen-white?style=flat-square&logo=github&logoColor=black)](https://github.com/aloneen/aloneen)&nbsp; This very README — because self-branding is also a skill.
+
+</td>
+<td width="25%" align="center" rowspan="3">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Fire.gif" width="80px"/>
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+> Add your best repos here — a CRUD API, a pet project, anything you shipped and didn't delete out of shame.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 GitHub Trophies
+<h2 align="center">Connect</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aloneen&theme=tokyonight&no-frame=true&column=7&margin-w=6" alt="trophies"/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aloneen)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dias-seisenbek/)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/somehowbutwill)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diasseisenbek80@gmail.com)
+
 </div>
 
----
-
-## 📈 Activity Graph
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aloneen&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ff6b6b&area=true&hide_border=true" alt="activity graph"/>
-</div>
+<sub>
 
----
+> *Code is never finished. It only becomes slightly less terrible over time.*
 
-## 📬 Connect With Me
+> *Every commit is a small, desperate apology to my future self.*
 
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/somehowbutwill)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diasseisenbek80@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dias-seisenbek/)
-
+</sub>
 </div>
 
 ---
 
+<h2 align="center">Contribution</h2>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aloneen&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=111111&area=true&hide_border=true" width="90%" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aloneen&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&dates=888888&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub Streak"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=60&section=footer&fontSize=12&fontColor=555555&text=aloneen%20%C2%A9%202025" width="100%"/>
 </div>
